@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="fluxi",
-    version="0.1.0",
+    version="0.2.0",
     description="A library for FLUX ControlNet inpainting models based on https://github.com/alimama-creative/FLUX-Controlnet-Inpainting",
     long_description=long_description,
     long_description_content_type="text/markdown",
